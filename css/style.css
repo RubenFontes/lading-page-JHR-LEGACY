@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'UniNeueBlack';
+    src: url(/font/Fontfabric\ -\ UniNeueBlack.otf);
+}
+.navbar {
+    background-color: #219D49;
+    height: 80px;
+}
+
+.collapse {
+    margin-left: 540px;
+}
+
+.nav-item {
+    font-size: 17px;
+}
+
+.nav-link {
+}
+
+.animal {
+    background: rgb(18, 119, 52);
+    height: 620px;
+}
+
+.sobre {
+    background: white;
+    padding-bottom: 540px;
+}
+
+.home {
+    background: ;
+}
+
+.titlesobre {
+    color: rgb(18, 119, 52);
+    margin-left: 40px;
+    padding-top: 40px;
+}
+
+.titleanimais {
+    color: white;
+    margin-left: 40px;
+    padding-top: 40px;
+}
+
+
+.navbar-brand {
+    margin-left: 20px;
+}
+
+.foto {
+    padding-top: 50px;
+}
+
+.cow1 {
+    border: 600px;
+}
+
+
